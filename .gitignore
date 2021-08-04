@@ -4,3 +4,4 @@ Gemfile.lock
 yarn.lock
 .idea/
 node_modules/
+**/log

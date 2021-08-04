@@ -30,6 +30,7 @@ bundle install
 
 cd path/to/capistrano/api
 cap -T
+before develop ssh to remote server /path/to/api/shared/.env
 
 # Deploy api - dev
 cap api:dev deploy branch=develop
