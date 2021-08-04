@@ -1,0 +1,6 @@
+*.env
+.DS_Store
+Gemfile.lock
+yarn.lock
+.idea/
+node_modules/
